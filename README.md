@@ -1,1 +1,1 @@
-# Task-1 Predication Using Supervised ML
+# Task-1 Prediction Using Supervised ML
